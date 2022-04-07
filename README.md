@@ -60,7 +60,7 @@ saving money by limiting the waste of water and electricity.
 
 **Step 2:**
 
-> Get all the Components listed above in images.
+> Get all the Components listed below in images.
 
 
 
