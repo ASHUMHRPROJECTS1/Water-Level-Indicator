@@ -41,9 +41,7 @@ saving money by limiting the waste of water and electricity.
 > file and set some parameters like the PCB thickness color and quantity.
 > I've paid just 2 Dollars to get my PCB after five days only, what I
 > have noticed about this time is the \"out-of-charge **PCB color PCB
-> color**\" which means you will pay only 2
->
-> USD for any PCB color you choose.
+> color**\" which means you will pay only 2 USD for any PCB color you choose.
 
 **Related Download Files**
 
@@ -123,7 +121,7 @@ stick a 12 volt socket for power supply.
 > Cover the box and place all the components of PCB on their respective
 > holes or places and your is now ready to use.
 >
-> New users will also get some coupons while registering at via this
+> New users will also get some coupons while registering at JCLPCB via this
 > blue link.
 
 
