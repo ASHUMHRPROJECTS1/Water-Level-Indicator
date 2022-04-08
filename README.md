@@ -121,7 +121,7 @@ stick a 12 volt socket for power supply.
 > Cover the box and place all the components of PCB on their respective
 > holes or places and your is now ready to use.
 >
-> New users will also get some coupons while registering at JCLPCB via this
+> New users will also get some coupons while registering at [JLCPCB](https://jlcpcb.com/IAT)[ ](https://jlcpcb.com/IAT) via this
 > blue link.
 
 
